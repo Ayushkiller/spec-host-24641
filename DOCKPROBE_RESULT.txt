@@ -1,0 +1,24 @@
+DOCKPROBE DOCK1-095655-75b1f1d8 BEGIN
+GUEST  uname      : 6.8.0
+GUEST  nodename   : devbox
+GUEST  nproc      : 4
+GUEST  MemTotal   : MemTotal:        8150116 kB
+socket exists      : True
+socket writable    : True
+DAEMON status      : HTTP/1.1 200 OK
+DAEMON KernelVersion: 6.8.0
+DAEMON OperatingSystem: Ubuntu 24.04.4 LTS
+DAEMON OSType      : linux
+DAEMON Architecture: x86_64
+DAEMON Name        : docker.io
+DAEMON NCPU        : 4
+DAEMON MemTotal    : 8345718784
+DAEMON ServerVersion: 29.2.1
+DAEMON DockerRootDir: /var/lib/docker
+DAEMON Driver      : overlayfs
+DAEMON CgroupDriver: systemd
+DAEMON Version     : 29.2.1
+DAEMON containers  : HTTP/1.1 200 OK ... 222 bytes
+DAEMON ctr body    : []
+
+DOCKPROBE DOCK1-095655-75b1f1d8 END
